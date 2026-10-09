@@ -2,3 +2,7 @@
 	path = 7x50_YangModels
 	url = https://github.com/nokia/7x50_YangModels.git
 	branch = master
+[submodule "srlinux-yang-models"]
+	path = srlinux-yang-models
+	url = https://github.com/nokia/srlinux-yang-models
+	branch = main
